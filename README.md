@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuvraj-anand
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 👨🏻‍💻 I’m looking to collaborate on Web Development Projects
 - 📫 Reach out at contactyuvrajanand@gmail.com
 <!---
 yuvraj-anand/yuvraj-anand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
