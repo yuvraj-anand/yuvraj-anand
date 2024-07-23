@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuvraj-anand
+- 👋 Hi, I’m Yuvraj Anand
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JavaScript
 - 👨🏻‍💻 I’m looking to collaborate on Web Development Projects
